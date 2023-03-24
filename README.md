@@ -135,7 +135,6 @@ Project Link: [https://github.com/AitorAstorga/MUlimpio](https://github.com/Aito
 * [Img Shields](https://shields.io)
 * [markdown-badges](https://github.com/Ileriayo/markdown-badges#table-of-contents)
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
