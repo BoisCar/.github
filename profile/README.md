@@ -121,7 +121,7 @@ Aitor Oruna Rodriguez - aitor.oruna@alumni.mondragon.edu
 Danel Mazkiaran Hernandez - danel.mazkiaran@gmail.com
 * [![LinkedIn][linkedin-shield]][linkedin-url-danel]
 
-Project Link: [https://github.com/AitorAstorga/MUlimpio](https://github.com/AitorAstorga/MUlimpio)
+Project Link: [https://github.com/BoisCar](https://github.com/BoisCar)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
